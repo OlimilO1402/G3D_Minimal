@@ -1,9 +1,10 @@
 Type=Exe
 Form=Forms\Form1.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
 Module=M3D; Modules\M3D.bas
 Module=MMatrix; Modules\MMatrix.bas
 Module=M3DObjects; Modules\M3DObjects.bas
+ResFile32="Resources\MyRes.RES"
 IconForm="Form1"
 Startup="Form1"
 HelpFile=""
