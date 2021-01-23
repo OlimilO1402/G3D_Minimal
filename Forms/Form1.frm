@@ -5,6 +5,7 @@ Begin VB.Form Form1
    ClientLeft      =   120
    ClientTop       =   465
    ClientWidth     =   12135
+   Icon            =   "Form1.frx":0000
    LinkTopic       =   "Form1"
    ScaleHeight     =   8400
    ScaleWidth      =   12135
@@ -79,8 +80,8 @@ Begin VB.Form Form1
       Width           =   975
    End
    Begin VB.PictureBox Picture1 
-      BackColor       =   &H00FFFFFF&
-      ForeColor       =   &H00000000&
+      BackColor       =   &H80000005&
+      ForeColor       =   &H80000009&
       Height          =   7695
       Left            =   120
       ScaleHeight     =   7635
